@@ -1,5 +1,5 @@
 # Intro
-I’m Rukhshan, a data consultant based in Lahore, specializing in leveraging quantitative tools to uncover insights and drive decision-making across diverse sectors. My work includes partnering with federal, state, and local government agencies in the U.S. to enhance their data capabilities. I thrive in collaborative environments, bringing a mix of technical expertise, strategic thinking, and clear communication to every project. Passionate about mission-driven work, I’m always eager to tackle projects that create meaningful impact.
+YDB!!
 
 # Background
 Born and raised in Lahore, I earned my undergraduate degree from Lahore University of Management Sciences (LUMS) before moving to the United States for graduate studies at the University of Chicago. From 2019 to 2024, I lived and worked in Chicago and New York, gaining extensive experience in helping organizations build and scale their data infrastructure.
