@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://rukhshanarifm.github.io/personal-site",
+  "homepage": "https://rukhshanarifm.github.io/ydb-site",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rukhshanarifm/personal-site.git"
+    "url": "https://github.com/rukhshanarifm/ydb-site.git"
   },
   "engines": {
     "node": ">=16.x"
