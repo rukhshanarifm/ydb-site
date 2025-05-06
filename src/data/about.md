@@ -1,6 +1,5 @@
 # Intro
-YDB!!
-
+YDB!! HEELLO
 # Background
 Born and raised in Lahore, I earned my undergraduate degree from Lahore University of Management Sciences (LUMS) before moving to the United States for graduate studies at the University of Chicago. From 2019 to 2024, I lived and worked in Chicago and New York, gaining extensive experience in helping organizations build and scale their data infrastructure.
 
